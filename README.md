@@ -21,7 +21,22 @@ Nesse estudo desenvolvemos tanto a parte do backend quanto a do frontend, o proj
 - [App Mobile](https://github.com/luismigsantana/nlw-mobile)
 - [API Rest](https://github.com/luismigsantana/nlw-server)
 
-As tecnologias usadas foram **Node.js** , **React** e **React-Native**. 
+## As tecnologias usadas foram 
+ -  <p margin-left="100" > 
+      <strong> Node.js </strong>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Next Level Week" width="15"/> 
+   </p>
+   
+-  <p margin-left="100" > 
+      <strong> React & React-Native </strong>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Next Level Week" width="15"/> 
+   </p>
+
+-  <p margin-left="100" > 
+      <strong> TypeScript </strong>
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Next Level Week" width="10"/> 
+   </p>
+ 
 
 ## Instalações
 
