@@ -15,6 +15,7 @@ O projeto de estudo dessa semana foi a plataforma de estudos Online Proffy. A pl
 ![Home.svg](assets/Home.svg)
 
 
+## Veja cada parte do Projeto
 Nesse estudo desenvolvemos tanto a parte do backend quanto a do frontend, o projeto todo está dividido nos seguintes repositórios:
 
 - [Frontend Web Resposivo](https://github.com/luismigsantana/nlw-web)
