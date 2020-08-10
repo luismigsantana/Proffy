@@ -1,6 +1,8 @@
 # Next Level Week 08/2020
 
-<center> <img src="assets/nlw-2.svg" /> </center>
+<p align="center">
+   <img src="./assets/nlw-2.svg" alt="Next Level Week" width="250"/>
+</p>
 
 O Projeto Next Level Week  #2 é um projeto realizado pela [Rocketseat](https://rocketseat.com.br/) que visa aprimorar os conhecimentos de desenvolvimento Web dos participantes, ajudando-os a atingir novos níveis de conhecimento técnico. 
 
